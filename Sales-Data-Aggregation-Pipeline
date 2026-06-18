@@ -1,1 +1,11 @@
-
+Order ID,Product,Category,Quantity,Price,City,Order Date
+1001,Laptop,Electronics,2,800,Chicago,2025-01-01
+1002,Phone,Electronics,3,500,New York,2025-01-02
+1003,Chair,Furniture,5,100,Dallas,2025-01-03
+1004,Desk,Furniture,2,250,Houston,2025-01-04
+1005,Phone,Electronics,4,500,Chicago,2025-01-05
+1006,Table,Furniture,1,300,Seattle,2025-01-06
+1007,Laptop,Electronics,1,800,Boston,2025-01-07
+1008,,Electronics,2,500,Miami,2025-01-08
+1009,Chair,Furniture,,100,Dallas,2025-01-09
+1010,Phone,Electronics,2,500,Chicago,2025-01-10
